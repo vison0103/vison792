@@ -1,4 +1,4 @@
-# vison792
+# E-MobileViT
 This repository is used to store code for the 792 project.
 This model is based on the changes and enhancements to MobileViT proposed by the Apple team.
 MobileViT papers can be found at: https://arxiv.org/pdf/2110.02178.pdf
